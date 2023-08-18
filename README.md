@@ -2,14 +2,22 @@
 ### Olá! Eu sou o alex Henrique 🤙🏾
 
 [![blog](https://img.shields.io/website?label=allexxweb.com&style=for-the-badge&url=https://allexxweb.com/)](https://allexxweb.com/)
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/alex00henrique/)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allexx.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allexx.dev)
+
+### Distros Utilizadas no dia-a-dia
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+)
+
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexHenrique&show_icons=true&theme=radical)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexHenrique)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 ## Tecnologias que eu uso no meu dia
 
@@ -22,3 +30,5 @@
 </div><br>
 
 Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da Programação.
+
+
