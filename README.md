@@ -14,9 +14,9 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexHenrique&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexHenrique)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexHenrique)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexHenrique)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ### Tecnologias que eu uso no meu dia-a-dia
 ### Technologies I use in my daily life
