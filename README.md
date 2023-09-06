@@ -43,9 +43,6 @@ profissional e pessoal.
 ### Formação Academica
 #### Analise e Desenvolvimento de Sistemas - Uninove
 #### Matemática - Uninove - cursando
-## 
-### Proximo Objetivo - Cursar Pedagogia
-Pois Sou apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da Programação.
-Quero ajuntar as duas profissões para poder ensinar e mostrar como a Tecnologia pode mudar vidas.
+
 
 
