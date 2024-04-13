@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o alex Henrique 🤙🏾
 
-[![blog](https://img.shields.io/website?label=allexxweb.com&style=for-the-badge&url=https://allexxweb.com/)](#)
+//[![blog](https://img.shields.io/website?label=allexxweb.com&style=for-the-badge&url=https://allexxweb.com/)](#)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/alex00henrique/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allexx.dev)
